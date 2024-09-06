@@ -10,4 +10,5 @@ console.log([mail,pswd,accountCity])
 
 /*
 Dont use VAr
+
 */
